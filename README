@@ -1,3 +1,8 @@
 Netsensor
 
-A simple network sensor system
+A simple network sensor system. Senses light levels and temperature, then
+servers them on port 80
+
+netsensor.ino - Arduino sketch
+netsensor.fz - Fritzing layout
+netsensor.sh - xymon script to monitor and graph data
